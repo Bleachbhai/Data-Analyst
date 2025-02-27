@@ -1,7 +1,9 @@
-This Traffic Accidents Analysis Shows the Every Detail about Car accidents and
-there Causes. This Analysis Shows us Crash Trends, identifying factors
-contributing to crashes, Which kind of Weather is Causing more accidents, Major
-factors of Roads, Traffic Signals, Lighting Conditions and exploring the severity
-of injuries. The Traffic Accidents data includes the number of records, The time
-range and relevant trends like crash type, injuries, weather conditions, and road
-conditions.
+The Purpose of this data Analysis is just to Point out that Car accidents are the
+major concern for road safety, and Understand the factor behind them is
+essential for reducing risks and saving lives. The data set includes critical
+information like Crash dates, Crash days of the week, Weather conditions, Road
+conditions, Traffic controls and injury severity. Through data analysis and
+visualizations, this report highlights key trends, such as the times when
+accidents are most likely to occur, the conditions leading to severe injuries, and
+the common types of crashes. The ultimate aim is to provide insights that can
+help improve road safety and reduce accident risks.
